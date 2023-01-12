@@ -1,0 +1,185 @@
+@import url("https://fonts.googleapis.com/css?family=Titillium+Web");
+* {
+  font-family: "Integral CF", sans-serif;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+p{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+    color: #000000;
+}
+.upload_btn{
+    height: 36px;
+    width: 109px;
+    border-radius: 60px;
+    padding: 4px 31px 7px 28px;
+    background-color: #3D00B7;
+    color: #ffffff;
+    border: 0px solid;
+}
+
+.connect_btn{
+    height: 36px;
+    width: 171px;
+    border-radius: 60px;
+    padding: 4px 25px 4px 30px;
+    background-color: #ffffff;
+    color: #3D00B7;
+    border: 1px solid;
+    margin-left: 10px;
+}
+
+.search{
+    height: 36px;
+    width: 267px;
+    border-radius: 100px;
+}
+
+.search-image img{
+    position: absolute;
+    top: 27px;
+    left: 10px;
+    left: auto;
+    right: 634px;
+    width: 14px;
+}
+
+.footer button{
+    font-size: 10px;
+}
+
+.navbar-brand{
+    color: #3D00B7;
+    height: 29px;
+    width: 107px;
+    border-radius: nullpx;
+    font-weight: bold;
+}
+
+.navbar-nav{
+    height: 21px;
+    width: 320px;
+    left: 293px;
+    top: 47px;
+    border-radius: nullpx;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    color: #000000;
+    padding-right: 3.5rem;
+    padding-left: 0.5rem;
+    font-weight: bold;
+}
+
+hr{
+    margin: 1rem 0;
+    color: inherit;
+    background-color: currentColor;
+    border: 0;
+    opacity: .25;  
+}
+
+.content-area h2,h4{
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.content-area h2{
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.content-area button{
+    width: 149px;
+}
+
+.jumbotron-area{
+    padding: 50px;
+    background-color:#f7f9fb;
+}
+
+.jumbotron-area h5{
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.jumbotron-area h6{
+    font-weight: bold;
+}
+
+.content{
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.logo-text h5{
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28.8px;
+}
+
+.footer-content p{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22.4px;
+}
+
+.social-icon li{
+    list-style: none;
+    display: inline;
+    margin: 0px;
+}
+
+.social-icon ul{
+    padding-left: 0rem;
+}
+
+.market-place ul{
+    padding-left: 0rem;
+}
+
+.market-place li{
+    list-style: none;
+}
+
+.market-place span{
+    font-weight: bold;
+}
+
+.social-icon img{
+    width: 24px;
+    height: 22px;
+    margin: 0px 2px;
+}
+
+.discover{
+    background-color:#f7f9fb;
+    padding: 50px;
+}
+
+.discover h5{
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.menu li{
+    list-style: none;
+    display: inline;
+}
+
+.menu ul{
+    padding-left: 0rem;
+    display: inline;
+}
+
+
+
